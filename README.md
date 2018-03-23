@@ -1,11 +1,11 @@
 # Csharp_Ajax_Js_UploadDownload
-Csharp+Ajax+Js:Upload File and Download File  
+Csharp+javascript:Upload File and Download File  
 　　
 　　
 　　
 　　
 ### Csharp_UploadDownload
-　　C#+ajax+javascript上传文件到服务器，从服务器下载文件到本地　　
+　　Csharp+javascript上传文件到服务器，从服务器下载文件到本地　　
 　　
 ### Web
 　　common 引用的文件  
