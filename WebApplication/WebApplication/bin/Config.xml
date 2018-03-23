@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <project_path>
+    <value>E:\Projects\Others\Csharp_Ajax_Js_UploadDownload</value>
+  </project_path>
+  <updown_path>
+    <value>\UpDownFile</value>
+  </updown_path>
+</config>
