@@ -1,0 +1,8 @@
+.updown {
+    height: 200px;
+    with: 200px;
+    width: 500px;
+    border: 2px solid #5bc0de;
+    text-align: center;
+    margin: 100px 0 0px 300px;
+}
