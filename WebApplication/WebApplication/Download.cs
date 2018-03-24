@@ -9,7 +9,7 @@ namespace WebApplication
     {
         public string DownloadFile()
         {
-            return "/UpDownFile/README.zip";
+            return "/README.zip";
         }
     }
 }
