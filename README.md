@@ -1,12 +1,10 @@
-# Csharp_Js_UploadDownload
-Csharp+javascript:Upload File and Download File  
+# Js_Csharp_UploadDownload
+javascript+Csharp:Upload File and Download File  
 　　
 　　
 　　
 　　
-### Csharp_UploadDownload
-　　Csharp+javascript上传文件到服务器，从服务器下载文件到本地　　
-　　
+　
 ### Web
 　　common 引用的文件  
 　　config.js 配置文件  
